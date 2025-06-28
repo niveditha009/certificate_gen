@@ -14,9 +14,4 @@ PROJECT DESCRIPTION
 
 The first html file, index.html provides a link to the second html file, pgrm.html. style.css contains the  basic font designs for our web pages. We have developed a template design which is saved as Certificate.pdf. The details which are entered by the user are retrieved by the javascript file, index.js which thereafter prints them at the respective positions of the certificate. The final certificate is available to download.
 
-HOW TO USE ?
-Step 1: Go to https://archanajkumar.github.io/Authentica/
-Step 2: Click on ‘Create’.
-Step 3: Enter the details and click submit.
-
 
